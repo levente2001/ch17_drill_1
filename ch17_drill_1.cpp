@@ -1,6 +1,4 @@
-#include <iostream>
-#include <stdexcept>
-#include <vector>
+#include <std_lib_facilities.h>
 
 using namespace std;
 
